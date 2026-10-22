@@ -2,6 +2,9 @@
 import csv
 import sys
 
+# example in class
+# using nano
+
 def trapezoid(f, a, b, n):
     if isinstance(n, bool) or not isinstance(n, int) or n <= 0:
         raise ValueError("n must be a positive integer")
