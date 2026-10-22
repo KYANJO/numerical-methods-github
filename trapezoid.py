@@ -2,7 +2,8 @@
 import csv
 import sys
 
-# added a comment
+# example in class
+# using nano
 
 def trapezoid(f, a, b, n):
     if isinstance(n, bool) or not isinstance(n, int) or n <= 0:
