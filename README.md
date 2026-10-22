@@ -39,7 +39,7 @@ Optional reproduction: `python3 trapezoid.py` or, on Windows, `py trapezoid.py`.
 
 ## Conclusion
 
-Smaller h always gives an exact answer.
+The large the n, the closer you get to the exact answer
 
 ## Your exercise
 
